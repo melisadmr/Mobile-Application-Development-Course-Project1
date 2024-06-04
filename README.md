@@ -109,7 +109,7 @@ Bu tasarımlar, kullanıcıların kolayca ülkeler arasında gezinmesini ve seç
 # SONUÇ
 Bu uygulamayı geliştirirken Flutter'ın sunduğu güçlü araçları ve TheMealDB API'sinin esnekliğini kullandım. Bu süreçte asenkron programlama, state management ve animasyon gibi temel Flutter konularını uygulamalı olarak öğrenme fırsatı buldum.
 
-# --------------------------AS ENGLISH----------------------------
+# --------------------------AS ENGLISH------------------------
 # Application Name: Country Flag App
 
 # Description:
